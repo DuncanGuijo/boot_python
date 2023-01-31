@@ -1,6 +1,6 @@
 # Boot instagram
 
-Atención: Este ejercicio ha sido creado con fines meramente didácticos.
+Este ejercicio ha sido creado con fines meramente didácticos.
 
 Este boot ha sido desarrollado para automatizar el proceso de seguir una cantidad x de usuarios de Instagram.
 
