@@ -1,8 +1,8 @@
-# Boot instagram
+# Bot instagram
 
 Este ejercicio ha sido creado con fines meramente didácticos.
 
-Este boot ha sido desarrollado para automatizar el proceso de seguir una cantidad x de usuarios de Instagram.
+Este bot ha sido desarrollado para automatizar el proceso de seguir una cantidad x de usuarios de Instagram.
 
 ## Requisitos
 
