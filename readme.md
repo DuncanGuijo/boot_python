@@ -6,7 +6,7 @@ Este boot ha sido desarrollado para automatizar el proceso de seguir una cantida
 
 ## Requisitos
 
-Python 3.11.1
-Importar librearias de Selenium y Time.
+Python 3.11.1 <br>
+Importar librearías de Selenium y Time.
 
 
